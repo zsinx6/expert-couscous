@@ -1,8 +1,6 @@
 print("a")
 print("a")
 print("a")
-print("a")
-print("a")
 print("batata")
 print("a")
 print("a")
